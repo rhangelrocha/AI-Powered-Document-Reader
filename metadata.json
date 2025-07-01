@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Document Reader",
+  "description": "An AI-powered text-to-speech application that reads text from your PDF and DOCX documents with natural-sounding voices.",
+  "requestFramePermissions": []
+}
